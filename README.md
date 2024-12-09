@@ -1,6 +1,12 @@
 # El método de ordenación Selection Sort
 
-[Video en Dropbox](https://www.dropbox.com/scl/fi/8mbhnh3psja9evilxaccd/p1b9g9un9q1tad1924187c1f60on04.mp4?rlkey=qu40r0l1vrjhzu0w0q4x647iy&st=stkam13a&dl=0)
+Un vistazo:
+
+- https://es.wikipedia.org/wiki/Ordenamiento_por_selecci%C3%B3n
+
+### Una explicación excelente (en inglés).
+
+[Video de la Carlos III ](https://www.dropbox.com/scl/fi/8mbhnh3psja9evilxaccd/p1b9g9un9q1tad1924187c1f60on04.mp4?rlkey=qu40r0l1vrjhzu0w0q4x647iy&st=stkam13a&dl=0)
 
 ## ¿Cómo funciona?
 
