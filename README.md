@@ -34,28 +34,7 @@
 
 
 
-
-public class SelectionSort {
-        
-            public static void selectionSort(int[] arr) {
-                int n = arr.length;
-        
-                // Recorrer el array
-                for (int i = 0; i < n - 1; i++) {
-                    // Encontrar el índice del elemento mínimo en el subarray no ordenado
-                    int minIndex = i;
-                    for (int j = i + 1; j < n; j++) {
-                        if (arr[j] < arr[minIndex]) {
-                            minIndex = j;
-                        }
-                    }
-        
-                    // Intercambiar el elemento mínimo encontrado con el primer elemento del subarray no ordenado
-                    swap(arr, minIndex, i);
-                }
-            }
-        public class SelectionSort {
-        
+  
             public static void selectionSort(int[] arr) {
                 int n = arr.length;
         
@@ -74,9 +53,6 @@ public class SelectionSort {
                 }
             }
         
-            public static void selectionSortDescendingOrder(int[] arr) {
-                int n = arr.length;public class SelectionSort {
-        
             public static void selectionSort(int[] arr) {
                 int n = arr.length;
         
@@ -94,6 +70,7 @@ public class SelectionSort {
                     swap(arr, minIndex, i);
                 }
             }
+        
         
             public static void selectionSortDescendingOrder(int[] arr) {
                 int n = arr.length;
@@ -145,25 +122,7 @@ public class SelectionSort {
                     System.out.print(num + " ");
                 }
             }
-        }public class SelectionSort {
-        
-            public static void selectionSort(int[] arr) {
-                int n = arr.length;
-        
-                // Recorrer el array
-                for (int i = 0; i < n - 1; i++) {
-                    // Encontrar el índice del elemento mínimo en el subarray no ordenado
-                    int minIndex = i;
-                    for (int j = i + 1; j < n; j++) {
-                        if (arr[j] < arr[minIndex]) {
-                            minIndex = j;
-                        }
-                    }
-        
-                    // Intercambiar el elemento mínimo encontrado con el primer elemento del subarray no ordenado
-                    swap(arr, minIndex, i);
-                }
-            }
+        }
         
             public static void selectionSortDescendingOrder(int[] arr) {
                 int n = arr.length;
