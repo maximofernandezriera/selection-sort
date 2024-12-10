@@ -7,7 +7,8 @@ Un vistazo:
 ### Una explicación excelente (en inglés).
 
 1. [Video de la Carlos III ](https://www.dropbox.com/scl/fi/8mbhnh3psja9evilxaccd/p1b9g9un9q1tad1924187c1f60on04.mp4?rlkey=qu40r0l1vrjhzu0w0q4x647iy&st=stkam13a&dl=0)
-2. [Subtítulos y transcripción ](https://www.dropbox.com/scl/fi/lm387d2mij7azv5i1u5k8/external-video-en.txt?rlkey=apx1mmy5ja5t1asn87z0gd6nz&st=4jxmylgq&dl=0)
+2. [Transcripción ](https://www.dropbox.com/scl/fi/lm387d2mij7azv5i1u5k8/external-video-en.txt?rlkey=apx1mmy5ja5t1asn87z0gd6nz&st=9c9zqkou&dl=0)
+3. [Subtítulos](https://www.dropbox.com/scl/fi/vuelaxqb6twiimhy6j0bh/external-video-en.srt?rlkey=yl7isyn9y15yjq0tsfl566fgk&st=te0h8faq&dl=0)
 
 ## ¿Cómo funciona?
 
